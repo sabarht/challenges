@@ -45,6 +45,8 @@ button {
 
 .button3 {
   font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+  font-weight: 900;
 }
 
 .button4 {
