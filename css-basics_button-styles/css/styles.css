@@ -21,8 +21,9 @@ section {
 }
 
 button {
+  font-size: 16px;
   background-color: white;
-  padding: 8px 25px;
+  padding: 8px 40px;
 }
 
 /* Your exercise starts here */
@@ -30,18 +31,27 @@ button {
 /* Add your CSS styles below this line. Feel free to replace the comments with your code. Make sure not to put your code into the comments, because then nothing will happen. */
 
 .button1 {
+  border: dotted 3px #9b9b9b;
+  border-radius: 16px;
   /*Style me! Change my border, set a border radius or what you want to try out. :) */
 }
 
 .button2 {
+  color: hsl(0, 0%, 95%);
+  border: groove 4px #921f6d;
+  background-color: #e3079d;
   /*Style me! Change my color, or my background-color. Or both! You can test out different color modes here - like HEX, RGB, ... */
 }
 
 .button3 {
-  /*Style me! You can test out changing the font, or font size, ...*/
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .button4 {
+  border: none;
+  background-color: #92f400;
+  color: rgb(1, 73, 31);
+  box-shadow: -1px -1px 5px 5px rgba(248, 255, 47, 0.646);
   /*Style me! Can you add a shadow to this button? Maybe play around with the shadow properties, as well? You can even color the shadow, make it bigger or smaller, ... */
 }
 
