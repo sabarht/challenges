@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #f6f6f6;
+}
+h2 {
+  background-color: white;
+}
+article {
+  border-radius: 16px;
+  background-color: white;
+  box-shadow: 4px 4px 12px #a4a4a483;
+  padding: 16px;
+}
+article img {
+  border-radius: 12px;
+  width: 160px;
+}
+article p {
+  font-size: 18px;
+  margin: 12px 0;
+}
+
+button {
+  background-color: white;
+  color: #3fa6f2;
+  border: none;
+}
+
+.username {
+  color: #a9a8a8;
+}
